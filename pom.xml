@@ -83,6 +83,12 @@
 							</excludes>
 						</filter>
 					</filters>
+					<!-- <relocations>
+						<relocation>
+							<pattern>org.nfunk</pattern>
+							<shadedPattern>com.devzy.share</shadedPattern>
+						</relocation>
+					</relocations> -->
 				</configuration>
 			</plugin>
 		</plugins>
